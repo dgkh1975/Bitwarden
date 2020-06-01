@@ -22,4 +22,9 @@ Los cuales se describen hasta la página 9 del documento y que presentará en cl
    **NOTA 2**
      La lectura se debe realizar en su totalidad para ambos grupos!!!. 
      
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.  
+~~~
+     
      
